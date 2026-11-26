@@ -1,0 +1,3 @@
+com.sofiauni.sqlanalyzer.config.SqlAnalyzerMetricsConfiguration
+com.sofiauni.sqlanalyzer.config.SqlAnalyzerAutoConfiguration
+com.sofiauni.sqlanalyzer.config.SqlAnalyzerWebAutoConfiguration
